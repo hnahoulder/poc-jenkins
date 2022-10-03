@@ -5,5 +5,4 @@ node {
 	stage('run') {
 		sh 'cat README.md'
 	}
-
 }
