@@ -7,5 +7,3 @@ And here.
 HEY HEY
 
 # Another content
-
-# And here
